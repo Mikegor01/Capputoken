@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Capputoken/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Capputoken/static/js/main.59245ecf.chunk.js",
+    "main.js.map": "/Capputoken/static/js/main.59245ecf.chunk.js.map",
+    "runtime-main.js": "/Capputoken/static/js/runtime-main.b293f015.js",
+    "runtime-main.js.map": "/Capputoken/static/js/runtime-main.b293f015.js.map",
+    "static/js/2.6603f368.chunk.js": "/Capputoken/static/js/2.6603f368.chunk.js",
+    "static/js/2.6603f368.chunk.js.map": "/Capputoken/static/js/2.6603f368.chunk.js.map",
+    "index.html": "/Capputoken/index.html",
+    "precache-manifest.6fa9c6f82b8637db4410254185376faa.js": "/Capputoken/precache-manifest.6fa9c6f82b8637db4410254185376faa.js",
+    "service-worker.js": "/Capputoken/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Capputoken/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b293f015.js",
+    "static/js/2.6603f368.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.59245ecf.chunk.js"
+  ]
+}
